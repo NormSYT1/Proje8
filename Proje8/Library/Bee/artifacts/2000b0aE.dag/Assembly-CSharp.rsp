@@ -354,8 +354,6 @@
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
-"Assets/New Folder/ButtonControl.cs"
-"Assets/New Folder/Move.cs"
 "Assets/Scripts/ButtonControl.cs"
 "Assets/Scripts/MouseLook.cs"
 "Assets/Scripts/PlayerMovement.cs"
